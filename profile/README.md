@@ -64,7 +64,7 @@ Footage of the website that I developed can be found below:
 
 [![zombits-website Thumbnail](images/zombits-website-thumbnail.png)](https://x.com/ZombitsNFT/status/1401482660652802057)
 
-> **Note:** Clicking on the thumbnail will open the video in a new tab.
+> **Note:** Clicking on the thumbnail will open the video in the current window.
 
 ![zombits-website Overview](images/zombits-website-overview.png)  
 _System diagram of the Interactive Website_
@@ -98,7 +98,7 @@ Pre-release footage of the gameplay that I developed can be found below:
 
 [![zombits-vs-humbits Thumbnail](images/zombits-vs-humbits-thumbnail.png)](https://x.com/ZombitsNFT/status/1456311542987771908)
 
-> **Note:** Clicking on the thumbnail will open the video in a new tab.
+> **Note:** Clicking on the thumbnail will open the video in the current window.
 
 ![zombits-vs-humbits Overview](images/zombits-vs-humbits-overview.png)  
 _System diagram of the Multiplayer Online Game_
