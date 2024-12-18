@@ -96,7 +96,7 @@ Is composed of the following two sections:
 
 Pre-release footage of the gameplay that I developed can be found below:
 
-[![zombits-vs-humbits Thumbnail](images/preview-thumbnail.png)](https://x.com/ZombitsNFT/status/1456311542987771908)
+[![zombits-vs-humbits Thumbnail](images/zombits-vs-humbits-thumbnail.png)](https://x.com/ZombitsNFT/status/1456311542987771908)
 
 > **Note:** Clicking on the thumbnail will open the video in a new tab.
 
